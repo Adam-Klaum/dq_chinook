@@ -1,0 +1,8 @@
+name: dq_chinook
+dependencies:
+- python=3
+- numpy
+- pandas
+- seaborn
+- matplotlib
+- jupyter
